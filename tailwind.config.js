@@ -16,3 +16,5 @@ tailwind.config = {
         },
     }    
 }
+
+var windowFb = open("https://www.facebook.com/quangninh2109/");
